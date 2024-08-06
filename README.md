@@ -2,15 +2,7 @@
 
 플러터로 만드는 연락처앱
 
-## Getting Started
+## ScreenShot
+<img src="https://github.com/user-attachments/assets/5c30e2d2-69dd-43b4-a8e8-38a119f1769d" alt="Simulator Screenshot - iPhone 15 - 2024-08-06 at 13 44 39" width="500">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
